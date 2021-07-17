@@ -7,4 +7,7 @@ Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/
 
 ##### Bloco 1: [Unix, Bash & shell Script](https://github.com/BrunoCBart/Trybe_Course/tree/main/01-fundamentos/bloco-01-unix-%26-shell-script)
 
-- [X] 1.3
+- [X] 1.3 - Fundamentos do Desenvolvimento Web
+- [X] 1.3 - Introdução Uinx & Shell
+- [X] 1.3 - Unix & Bash - Parte 1
+- [X] 1.4 - Unix & Bash - Parte 2
