@@ -31,13 +31,3 @@ Dica : Para criação de arquivos vazios você pode utilizar o comando `touch no
 1. Limpe o terminal.
 
 #### Para os exercícios, 14 e 15, crie, de forma manual na parte gráfica do seu sistema operacional, um arquivo de texto com o conteúdo abaixo, chamado `skills.txt`:
-
-Internet
-Unix
-Bash
-HTML
-CSS
-JavaScript
-React
-SQL
-
