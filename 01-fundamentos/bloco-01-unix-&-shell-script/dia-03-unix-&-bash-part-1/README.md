@@ -28,4 +28,4 @@ Dica : Para criação de arquivos vazios você pode utilizar o comando `touch no
 
 1. Apague o diretório backup.
 
-Limpe o terminal.
+1. Limpe o terminal.
