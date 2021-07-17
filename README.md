@@ -7,4 +7,4 @@ Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/
 
 ##### Bloco 1: [Unix, Bash & shell Script](https://github.com/BrunoCBart/Trybe_Course/tree/main/01-fundamentos/bloco-01-unix-%26-shell-script)
 
-- [X] :
+- [X] 1.3
