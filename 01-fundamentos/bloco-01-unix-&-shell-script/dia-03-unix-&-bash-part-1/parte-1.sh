@@ -1,3 +1,5 @@
+#!/bin/bash
+
 delay=2
 
 # Exercício 1

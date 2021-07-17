@@ -48,3 +48,38 @@ SQL
 1. Mostre na tela as 4 últimas skills do arquivo `skills.txt` .
 
 1. Apague todos os arquivos que terminem em `.txt` .
+
+# Parte II Manipulação & Busca
+
+1. Na pasta `unix_tests` , baixe um arquivo com os nomes de todos os países do mundo utilizando o comando curl:
+
+```
+curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"
+```
+2. Mostre todo o conteúdo do arquivo `countries.txt` na tela.
+
+1. Mostre o conteúdo de `countries.txt` , página por página, até encontrar a Zambia .
+
+1. Mostre novamente o conteúdo de `countries.txt` página por página, mas agora utilize um comando para buscar por Zambia .
+
+1. Busque por Brazil no `countries.txt` .
+
+1. Busque novamente por brazil , mas agora utilizando o lower case .
+
+1. Para os próximos exercícios, crie um novo arquivo chamado `phrases.txt` e adicione algumas frases à sua escolha. Não precisa criar o arquivo pelo terminal.
+
+1. Busque pelas frases que não contenham a palavra fox .
+
+1. Conte o número de palavras do arquivo `phrases.txt` .
+
+1. Conte o número de linhas do arquivo `phrases.txt` .
+
+1. Crie os arquivos `empty.tbt` e `empty.pdf` .
+
+1. Liste todos os arquivos do diretório `unix_tests` .
+
+1. Liste todos os arquivos que terminem com `txt` .
+
+1. Liste todos os arquivos que terminem com `tbt` ou `txt` .
+
+1. Acesse o manual do comando ls .
