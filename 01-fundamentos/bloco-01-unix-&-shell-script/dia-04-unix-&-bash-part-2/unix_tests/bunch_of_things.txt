@@ -22,7 +22,6 @@ Bolivia
 Bosnia Herzegovina
 Botswana
 Brazil
-brazil is where I'm from
 Brunei
 Bulgaria
 Burkina
@@ -48,7 +47,6 @@ Denmark
 Djibouti
 Dominica
 Dominican Republic
-Drink water!
 East Timor
 Ecuador
 Egypt
@@ -57,6 +55,7 @@ Equatorial Guinea
 Eritrea
 Estonia
 Ethiopia
+-e Uganda
 Fiji
 Finland
 France
@@ -65,7 +64,6 @@ Gambia
 Georgia
 Germany
 Ghana
-Greece
 Greece
 Grenada
 Guatemala
@@ -76,7 +74,6 @@ Haiti
 Honduras
 Hungary
 Iceland
-I'm going to become a Dev
 India
 Indonesia
 Iran
@@ -157,7 +154,6 @@ Serbia
 Seychelles
 Sierra Leone
 Singapore
-Skateboarding is awesome
 Slovakia
 Slovenia
 Solomon Islands
@@ -178,7 +174,6 @@ Taiwan
 Tajikistan
 Tanzania
 Thailand
-This is a phrase
 Togo
 Tonga
 Trinidad & Tobago

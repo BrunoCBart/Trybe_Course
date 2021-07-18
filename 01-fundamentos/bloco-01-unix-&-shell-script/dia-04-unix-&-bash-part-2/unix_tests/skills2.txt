@@ -1,8 +1,8 @@
-Internet
+-e Internet
 Unix
 Bash
-JavaScript
+-e CSS
 PhP
 Python
-Css
-Html
+React
+Skateboarding
