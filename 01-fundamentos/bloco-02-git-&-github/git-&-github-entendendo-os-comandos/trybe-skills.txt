@@ -3,3 +3,5 @@ Bash
 CSS
 JS
 React
+Soft skills
+Html
