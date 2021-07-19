@@ -1,6 +1,5 @@
 Unix
 Bash
-Git
-JavaScript
-React
+JS
 CSS
+React
