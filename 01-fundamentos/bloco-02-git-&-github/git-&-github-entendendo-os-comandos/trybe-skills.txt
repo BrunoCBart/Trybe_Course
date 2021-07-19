@@ -1,0 +1,5 @@
+Unix 
+Bash
+CSS
+JS
+React
