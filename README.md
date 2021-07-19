@@ -1,4 +1,5 @@
-# Trybe_Course
+# Trybe_Exercicios
+
 Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/brunobartolomeu/) durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket:
 
 >"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando >conseguir um bom trabalho."
