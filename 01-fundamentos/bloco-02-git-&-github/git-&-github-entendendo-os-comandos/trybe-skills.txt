@@ -3,3 +3,4 @@ Bash
 Git
 JavaScript
 React
+CSS
