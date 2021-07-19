@@ -4,3 +4,6 @@ CSS
 JS
 React
 Data structures
+Soft skills
+Html
+
