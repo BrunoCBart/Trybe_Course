@@ -1,0 +1,31 @@
+div:hover {
+    border: 2px solid black;
+}
+
+div:first-child {
+    background-color: red;
+    font-style: italic;
+}
+
+div:nth-child(2) {
+    background-color: orange;
+}
+
+div:nth-child(3) {
+    height: 5em;
+    background-color: purple;
+    font-style: italic;
+}
+
+div:nth-child(4) {
+    background-color: gray;
+}
+
+div:last-child {
+    background-color: lightblue;
+    font-style: italic;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+}
