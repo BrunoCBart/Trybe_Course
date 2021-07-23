@@ -1,0 +1,39 @@
+li {
+    font-size: 20px;
+}
+
+ol {
+    background-color: yellow;
+}
+
+ol li:nth-child(2), ol li:nth-child(4) {
+    color: green;
+    font-weight: bold;
+}
+
+ol li:first-child, ol li:nth-child(3), ol li:nth-child(5) {
+    text-transform: uppercase;
+}
+
+h1, h3 {
+    color: red;
+}
+
+h1 {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+
+.blue {
+    color: blue;
+}
+
+.java {
+    background-color: pink;
+}
+
+div ul li a:hover {
+    font-weight: bold;
+    color: green;
+}
