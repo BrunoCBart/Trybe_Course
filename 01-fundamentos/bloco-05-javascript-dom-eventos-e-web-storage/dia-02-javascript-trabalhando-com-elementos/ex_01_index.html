@@ -1,0 +1,77 @@
+<main id="paiDoPai">
+  <section id="pai">
+    <section id="primeiroFilho"></section>
+    <section id="elementoOndeVoceEsta">
+      <section id="primeiroFilhoDoFilho"></section>
+      <section id="segundoEUltimoFilhoDoFilho"></section>
+    </section>
+    Atenção!
+    <section id="terceiroFilho"></section>
+    <section id="quartoEUltimoFilho"></section>
+  </section>
+</main>
+<script>
+  // #1
+  const elementoOndeVoceEsta = document.querySelector('#pai').firstChild.nextSibling.nextElementSibling
+  console.log(elementoOndeVoceEsta)
+
+  // #2 
+  elementoOndeVoceEsta.parentElement.style.color = 'red'
+
+  // #3
+  elementoOndeVoceEsta.firstElementChild.innerText = 'Sou o primeiro filho de ondevoceesta'
+
+  // #4
+  const primeiroFilho = elementoOndeVoceEsta.parentElement.firstElementChild
+  console.log(primeiroFilho)
+
+  // #5
+  const primeiroFilhoOndeEstou = elementoOndeVoceEsta.firstElementChild
+  console.log(primeiroFilhoOndeEstou)
+
+  // #6
+  const texto = elementoOndeVoceEsta.firstChild
+  console.log(texto)
+  texto.innerText = 'Sou um texto'
+  // #7
+  const terceiroFilhoOndeEstou = elementoOndeVoceEsta.lastElementChild
+  console.log(terceiroFilhoOndeEstou)
+
+  // #8
+  const terceiroFilho = elementoOndeVoceEsta.parentElement.lastElementChild.previousElementSibling
+  console.log(terceiroFilho)
+
+  //PARTE II
+
+  // #1
+  const pai = elementoOndeVoceEsta.parentElement
+  const el = document.createElement('section')
+  el.id = 'quintoFilho'
+  pai.appendChild(el)
+  console.log(pai)
+
+  // #2
+  const filho = document.createElement('section')
+  filho.id = 'terceiroFilhoDoFilho'
+  elementoOndeVoceEsta.appendChild(filho)
+
+  // #3
+  const primeiroFilhoDoFilho = elementoOndeVoceEsta.firstElementChild
+  const element = document.createElement('Section')
+  element.id = 'primeiroFilhoDoFilhoDoFilho'
+  primeiroFilhoDoFilho.appendChild(element)
+
+  // #4
+  const filhoEl = document.querySelector('#primeiroFilhoDoFilhoDoFilho')
+  const terceiroFilho2 = filhoEl.parentElement.parentElement.parentElement.lastChild.previousElementSibling.previousElementSibling
+  console.log(terceiroFilho2)
+
+  // PARTE III
+  const paiDoPai = document.querySelectorAll('#paiDoPai section')
+
+  for(let child of paiDoPai) {
+    if(child.id !== 'pai' && child.id !== 'elementoOndeVoceEsta' && child.id !== 'primeiroFilhoDoFilho') {
+      child.remove()
+    }
+  }
+</script> 
