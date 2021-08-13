@@ -71,10 +71,19 @@ function holidays() {
       if (holiday.classList.contains('color')) {
         holiday.style.backgroundColor = 'pink'
       }
+
+      // if (!holiday.style.backgroundColor) {
+      //   holiday.style.backgroundColor = 'pink'
+      // } else {
+      //   holiday.style.backgroundColor = ''
+      // }
+
     }
   })
 
 }
+
+
 
 
 // Ex #4
@@ -105,6 +114,11 @@ function isFriday() {
       if (friday.classList.contains('color2')) {
         friday.style.backgroundColor = 'lightblue'
       }
+      // if (!friday.style.backgroundColor) {
+      //   friday.style.backgroundColor = 'lightblue'
+      // } else {
+      //   friday.style.backgroundColor = ''
+      // }
     }
   })
 }
