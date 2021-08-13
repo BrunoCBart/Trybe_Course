@@ -25,22 +25,22 @@ Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/
 - [X] 3.1 - HTML & CSS - Estruturas de página
 - [X] 3.2 - HTML & CSS - Primeiros passos em CSS
 - [X] 3.3 - HTML & CSS - Seletores e posicionamento
-- [ ] 3.4 - HTML Semântico
-- [ ] 3.5 - Projeto - Lessons Learned
+- [X] 3.4 - HTML Semântico
+- [X] 3.5 - Projeto - Lessons Learned
 
 ##### Bloco 4: [Introdução à JavaScript e Lógica de Programação]()
-- [ ] 4.1 - Introdução - JavaScript
-- [ ] 4.1 - JavaScript - Primeiros passos
-- [ ] 4.2 - JavaScript - Array e loop For
-- [ ] 4.3 - JavaScript - Lógica de Programação e Algoritmos
-- [ ] 4.4 - JavaScript - Objetos e funções
-- [ ] 4.5 - Projeto - Playground Functions
+- [X] 4.1 - Introdução - JavaScript
+- [X] 4.1 - JavaScript - Primeiros passos
+- [X] 4.2 - JavaScript - Array e loop For
+- [X] 4.3 - JavaScript - Lógica de Programação e Algoritmos
+- [X] 4.4 - JavaScript - Objetos e funções
+- [X] 4.5 - Projeto - Playground Functions
 
 ##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage]()
-- [ ] 5.1 - JavaScript - DOM e seletores
-- [ ] 5.2 - JavaScript - Trabalhando com elementos
-- [ ] 5.3 - JavaScript - Eventos
-- [ ] 5.4 - JavaScript - Web Storage
+- [X] 5.1 - JavaScript - DOM e seletores
+- [X] 5.2 - JavaScript - Trabalhando com elementos
+- [X] 5.3 - JavaScript - Eventos
+- [X] 5.4 - JavaScript - Web Storage
 - [ ] 5.5 - Fundamentos - JavaScript - Projetos
 - [ ] 5.5 - Projeto - Arte com Pixels
 - [ ] 5.6 - Projeto - Lista de tarefas

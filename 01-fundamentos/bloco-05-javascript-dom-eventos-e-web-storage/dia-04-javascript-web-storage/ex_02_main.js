@@ -41,3 +41,5 @@ function getSavedBgColor() {
   header.style.backgroundColor = color[0]
   bgColorSelector.value = color[1]
 }
+
+console.log('cheguei aqui')
