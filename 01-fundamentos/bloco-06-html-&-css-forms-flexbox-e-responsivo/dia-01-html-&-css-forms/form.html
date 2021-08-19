@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Forms exercicio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <form name="form" action="">
+    <fieldset>
+      <div class="input-container mb-3">
+        <label class="form-label" for="user-name">Nome:</label>
+        <input type="text" maxlength="40" required name="user-name" id="user-name">
+      </div>
+      <label class="form-label" for="user-email">Email:</label>
+        <input type="text" maxlength="50" required name="user-email" id="user-email">
+      </div>
+      <div class="input-container mb-3">
+        <label class="form-label" for="user-cpf">CPF:</label>
+        <input type="number" maxlength="50" required name="user-cpf" id="user-cpf">
+      </div>
+      <div class="input-container mb-3">
+        <label class="form-label" for="user-address">Endereço:</label>
+        <input type="text" maxlength="200" required name="user-address" id="user-address">
+      </div>
+      <div class="input-container mb-3">
+        <label class="form-label" for="user-city">Cidade:</label>
+        <input type="text" maxlength="28" required name="user-city" id="user-city">
+      </div>
+      <div class="input-container mb-3">
+        <select class="form-select" name="estados-brasil" id="estados-brasil">
+        </select>
+      </div>
+      <div class="form-check mb-3">
+        <label class="form-label" for="">Casa</label>
+        <input type="radio" name="moradia" value="Case">
+        <label class="form-label" for="">Apartamento</label>
+        <input type="radio" name="moradia" value="Apartamento">
+      </div>
+    </fieldset>
+    <fieldset name="form">
+      <div class="input-container mb-3">
+        <label class="form-label" for="">Resumo do Currículo:</label>
+        <textarea name="" id="" rows="15" maxlength="1000" required></textarea>
+      </div>
+      <div class="input-container mb-3">
+        <label class="form-label" for="">Cargo:</label>
+        <input type="text" maxlength="40" required>
+      </div>
+      <div class="input-container mb-3">
+        <label class="form-label" for="">Descrição do cargo:</label>
+        <textarea name="" id="" rows="15" maxlength="500"></textarea>
+      </div>
+      <div class="input-container mb-3">
+        <label class="form-label" for="">Data de Início</label>
+        <input type="text" id="data-inicio" required>
+      </div>
+    </fieldset>
+    <div class="submit-btn--container mb-3"><button type="submit" value="Submit" id="submit">Submit</button></div>
+  </form>
+  <script src="script.js"></script>
+</body>
+</html>
