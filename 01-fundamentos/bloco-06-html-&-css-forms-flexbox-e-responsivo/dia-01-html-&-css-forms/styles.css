@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body  {
+  font-family: 'Open Sans', sans-serif;
+  padding: 5em;
+}
+
+fieldset {
+  width: 80%;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+fieldset + fieldset {
+  margin-top: 2em;
+}
+
+fieldset input[type="text"], fieldset input[type="number"] {
+  width: 100%;
+  padding: 0.2em;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.input-container + .input-container {
+  margin-top: 1em;
+}
+
+fieldset textarea {
+  width: 100%;
+}
+
+.submit-btn--container {
+  width: 80%;
+  margin: 1em auto;
+  padding: 1em;
+}
+
+#submit {
+  padding: 0.5em 1em;
+  font-size: 1.2rem;
+}
+
+.form-result {
+  width: 80%;
+  margin: 0 auto;
+  padding: 1em;
+  border: 1px solid black;
+}
+
+p {
+  margin-bottom: 0.3em;
+}
