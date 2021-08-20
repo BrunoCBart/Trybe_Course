@@ -15,12 +15,12 @@ Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/
 - [X] 1.3 - Unix & Bash - Parte 1
 - [X] 1.4 - Unix & Bash - Parte 2
 
-##### Bloco 2: [Git, GitHub e Internet]()
+##### Bloco 2: [Git, GitHub e Internet](https://github.com/BrunoCBart/trybe-course/tree/estudando/01-fundamentos/bloco-02-git-%26-github)
 - [X] 2.1 - Git & GitHub  - O que é e para que serve
 - [X] 2.2 - Git & GitHub - Entendendo os comandos
 - [X] 2.3 - Internet - Entendendo como ela funciona
 
-##### Bloco 3: [Introdução à HTML e CSS]()
+##### Bloco 3: [Introdução à HTML e CSS](https://github.com/BrunoCBart/trybe-course/tree/estudando/01-fundamentos/bloco-03-introducao-html-css)
 - [X] 3.1 - Introdução - HTML & CSS
 - [X] 3.1 - HTML & CSS - Estruturas de página
 - [X] 3.2 - HTML & CSS - Primeiros passos em CSS
@@ -28,7 +28,7 @@ Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/
 - [X] 3.4 - HTML Semântico
 - [X] 3.5 - Projeto - Lessons Learned
 
-##### Bloco 4: [Introdução à JavaScript e Lógica de Programação]()
+##### Bloco 4: [Introdução à JavaScript e Lógica de Programação](https://github.com/BrunoCBart/trybe-course/tree/estudando/01-fundamentos/bloco-04-introducao-a-javascript-e-logica-de-programacao)
 - [X] 4.1 - Introdução - JavaScript
 - [X] 4.1 - JavaScript - Primeiros passos
 - [X] 4.2 - JavaScript - Array e loop For
@@ -36,7 +36,7 @@ Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/
 - [X] 4.4 - JavaScript - Objetos e funções
 - [X] 4.5 - Projeto - Playground Functions
 
-##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage]()
+##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage](https://github.com/BrunoCBart/trybe-course/tree/estudando/01-fundamentos/bloco-05-javascript-dom-eventos-e-web-storage)
 - [X] 5.1 - JavaScript - DOM e seletores
 - [X] 5.2 - JavaScript - Trabalhando com elementos
 - [X] 5.3 - JavaScript - Eventos
@@ -48,12 +48,12 @@ Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/
 - [X] 5.7 - (Bônus) Projeto - Adivinhe a Cor
 - [X] 5.7 - (Bônus) Projeto - Carta Misteriosa
 
-##### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo]()
+##### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/BrunoCBart/trybe-course/tree/estudando/01-fundamentos/bloco-06-html-%26-css-forms-flexbox-e-responsivo)
 - [X] 6.1 - HTML & CSS - Forms
 - [X] 6.2 - Bibliotecas JavaScript e Frameworks CSS
-- [] 6.3 - Introdução - CSS Flexbox
-- [ ] 6.3 - CSS Flexbox - Parte 1
-- [ ] 6.4 - CSS Flexbox - Parte 2
+- [X] 6.3 - Introdução - CSS Flexbox
+- [X] 6.3 - CSS Flexbox - Parte 1
+- [X] 6.4 - CSS Flexbox - Parte 2
 - [ ] 6.5 - CSS Responsivo - Mobile First
 - [ ] 6.6 - Projeto - Página inicial do Facebook
 
