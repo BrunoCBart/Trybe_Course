@@ -13,6 +13,4 @@ test('Testa funcao getRepos', async () => {
   const names = await getRepos('https://api.github.com/orgs/tryber/repos');
   expect(names).toContain('sd-01-week4-5-project-todo-list')
   expect(names).toContain('sd-01-week4-5-project-meme-generator')
-
-
 })

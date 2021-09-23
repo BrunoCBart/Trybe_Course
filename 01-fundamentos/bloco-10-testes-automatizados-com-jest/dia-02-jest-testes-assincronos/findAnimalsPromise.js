@@ -20,3 +20,4 @@ const findAnimalsByType = (type) => (
 const getListAnimals = (type) => (
   findAnimalsByType(type).then(list => list)
 );
+
