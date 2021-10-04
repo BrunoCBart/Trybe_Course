@@ -82,3 +82,5 @@ function finalString(str, strend) {
 }
 
 console.log(finalString("trybe", "be"));
+
+// Finaliza bloco 04
