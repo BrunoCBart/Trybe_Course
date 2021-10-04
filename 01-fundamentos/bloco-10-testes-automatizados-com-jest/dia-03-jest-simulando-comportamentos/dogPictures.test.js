@@ -1,4 +1,3 @@
-const { exp } = require('prelude-ls')
 const service = require('./dogPictures')
 
 
