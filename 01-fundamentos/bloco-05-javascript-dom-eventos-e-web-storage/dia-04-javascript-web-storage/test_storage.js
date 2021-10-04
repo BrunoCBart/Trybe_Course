@@ -18,3 +18,5 @@ sessionStorage.removeItem("lastname") // remove a entrada referente a key = "las
 console.log(sessionStorage.length) // possui uma entrada, então o retorno é o valor: 1
 sessionStorage.clear() // limpa todas as entradas salvas em sessionStorage
 console.log(sessionStorage.length) // não possui nada salvo, então o retorno é o valor: 0
+
+//finaliza bloco 05
