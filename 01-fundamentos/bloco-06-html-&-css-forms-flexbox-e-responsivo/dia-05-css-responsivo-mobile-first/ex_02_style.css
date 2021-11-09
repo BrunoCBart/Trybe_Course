@@ -1,0 +1,76 @@
+body {
+  font-size: 1.2rem;
+  margin: 1em;
+}
+h1 {
+  font-size: 1.8rem;
+}
+h2 {
+
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 50%;
+    border: 0.2rem solid rgb(196, 196, 196)
+}
+
+figure {
+   margin: 0
+}
+
+figure + figure {
+  margin-top: 1.5rem;
+}
+
+figcaption{
+  text-align: center;
+}
+
+@media screen and (min-width: 600px){
+  main {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(218, 218, 218);
+  }
+
+  section p {
+    max-width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 2rem
+  }
+
+  body {
+    font-size: 1.4rem;
+    margin: 2rem;
+  }
+
+  h1 {
+    font-size: 2.4rem;
+    text-align: center;
+  }
+
+  main h2 {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+
+  figure {
+    padding: .5em;
+  }
+
+  figure + figure {
+    margin-top: 0;
+  } 
+
+  
+}

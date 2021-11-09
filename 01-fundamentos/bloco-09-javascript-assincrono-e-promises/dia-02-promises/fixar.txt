@@ -1,0 +1,27 @@
+1- O que é um código que é executado de modo assíncrono? 
+Qual é a diferença disso para um código que é executado de modo síncrono?
+
+2- Quando você tem que enfileirar várias callbacks , que problema surge?
+
+3- Por que as Promises são uma forma de se resolver esse problema?
+
+4- Quando você vai se comunicar com uma API , tal comunicação deve ser 
+síncrona ou assíncrona? Lembre-se de que o serviço ao qual você está se 
+conectando pode demorar muito ou pouco para dar retorno, pode estar fora do ar etc.
+
+5- Dada a resposta anterior, o que é fetch e para que ele serve?
+
+
+
+1* Um código executado de modo síncrono segue a ordem de linha por linha.
+
+2* Surge o problema da callback Hell, ou Ávore de natal, onde o codinho vai aninhando 
+até ficar ilegivél.
+
+3* As promises fazem o que o que as callbacks fariam de forma assícrona.
+
+4* A comunicação deve ser assíncrona para que o fluxo da sua pagina ou aplicação não 
+pare de executar esperando a resposta da requisição.
+
+5* fetch é um método do javascript que permite fazer requisições a urls tendo dois parametros,
+sendo o primeiro a url ou options, sendo o me
