@@ -84,48 +84,48 @@ Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/
 ## Desenvolvimento Front-end :heavy_check_mark:
 
 ##### Bloco 10: [Introdução à React]()
-- [ ] 11.1 - Introdução - Front-end
-- [ ] 11.1 - Introdução - React
-- [ ] 11.1 - 'Hello, world!' no React!
-- [ ] 11.2 - Componentes React
-- [ ] 11.3 - Projeto - Movie Cards Library
+- [X] 11.1 - Introdução - Front-end
+- [X] 11.1 - Introdução - React
+- [X] 11.1 - 'Hello, world!' no React!
+- [X] 11.2 - Componentes React
+- [X] 11.3 - Projeto - Movie Cards Library
 
 ##### Bloco 11: [Componentes com Estado, Eventos e Formulários com React]()
-- [ ] 12.1 - Componentes com estado e eventos
-- [ ] 12.2 - Formulários no React
-- [ ] 12.3 - Projeto - Movie Cards Library Stateful
+- [X] 12.1 - Componentes com estado e eventos
+- [X] 12.2 - Formulários no React
+- [X] 12.3 - Projeto - Movie Cards Library Stateful
 
 ##### Bloco 12: [Ciclo de Vida de Componentes e React Router]()
-- [ ] 13.1 - Ciclo de vida de componentes
-- [ ] 13.2 - React Router
-- [ ] 13.3 - Projeto - Movie Cards Library CRUD
+- [X] 13.1 - Ciclo de vida de componentes
+- [X] 13.2 - React Router
+- [X] 13.3 - Projeto - Movie Cards Library CRUD
 
 ##### Bloco 13: [Metodologias Ágeis]()
-- [ ] 14.1 - Metodologias Ágeis
-- [ ] 14.2 - Projeto - Frontend Online Store
+- [X] 14.1 - Metodologias Ágeis
+- [X] 14.2 - Projeto - Frontend Online Store
 
 ##### Bloco 14: [Testes automatizados com React Testing Library]()
-- [ ] 15.1 - RTL - Primeiros passos
-- [ ] 15.2 - RTL - Mocks e Inputs
-- [ ] 15.3 - RTL - Testando React Router
-- [ ] 15.4 - Projeto - Testes em React
+- [X] 15.1 - RTL - Primeiros passos
+- [X] 15.2 - RTL - Mocks e Inputs
+- [X] 15.3 - RTL - Testando React Router
+- [X] 15.4 - Projeto - Testes em React
 
 ##### Bloco 15: [Gerenciamento de estado com Redux]()
-- [ ] 16.1 - Introdução ao Redux - O estado global da aplicação
-- [ ] 16.2 - Usando o Redux no React
-- [ ] 16.3 - Usando o Redux no React - Prática
-- [ ] 16.4 - Usando o Redux no React - Actions Assíncronas
-- [ ] 16.5 - Testes síncronos com React-Redux
-- [ ] 16.6 - Projeto - Tabela com filtros de dados
+- [X] 16.1 - Introdução ao Redux - O estado global da aplicação
+- [X] 16.2 - Usando o Redux no React
+- [X] 16.3 - Usando o Redux no React - Prática
+- [X] 16.4 - Usando o Redux no React - Actions Assíncronas
+- [X] 16.5 - Testes síncronos com React-Redux
+- [X] 16.6 - Projeto - Tabela com filtros de dados
 
 ##### Bloco 16: Projeto Jogo de Trivia
-- [ ] 17.1 - Projeto - Jogo de Trivia
+- [X] 17.1 - Projeto - Jogo de Trivia
 
 ##### Bloco 17: [Context API e React Hooks]()
-- [ ] 18.1 - Context API do React
-- [ ] 18.2 - React Hooks - useState e useContext
-- [ ] 18.3 - React Hooks - useEffect e Hooks customizados
-- [ ] 18.4 - Projeto - StarWars Datatable com Context API e Hooks
+- [X] 18.1 - Context API do React
+- [X] 18.2 - React Hooks - useState e useContext
+- [X] 18.3 - React Hooks - useEffect e Hooks customizados
+- [X] 18.4 - Projeto - StarWars Datatable com Context API e Hooks
 
 ##### Bloco 18: Projeto App de Receitas
 - [ ] 19.1 - Projeto - App de Receitas
