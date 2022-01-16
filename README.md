@@ -128,7 +128,7 @@ Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/
 - [X] 18.4 - Projeto - StarWars Datatable com Context API e Hooks
 
 ##### Bloco 18: Projeto App de Receitas
-- [ ] 19.1 - Projeto - App de Receitas
+- [X] 19.1 - Projeto - App de Receitas
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
