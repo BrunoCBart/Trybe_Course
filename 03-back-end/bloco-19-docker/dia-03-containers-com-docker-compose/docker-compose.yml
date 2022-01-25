@@ -1,0 +1,27 @@
+version: '3'
+
+services:
+  ghost:
+    build: ./dockerfiles/blog
+    image: ghost:4-alpine 
+    stdin_open: true
+    tty: true
+    ports: 
+    - 2368:2368
+    environment:
+      - database__client=mysql
+      - database__connection__host=db
+      - database__connection__database=ghost
+      - database__connection__user=root
+      - database__connection__password="example"
+    depends_on:
+      - db
+    restart: always
+
+
+  db:
+    build: ./dockerfiles/db
+    image: mysql:5.7
+    environment:
+      - MYSQL_ROOT_PASSWORD="example"
+    restart: always
