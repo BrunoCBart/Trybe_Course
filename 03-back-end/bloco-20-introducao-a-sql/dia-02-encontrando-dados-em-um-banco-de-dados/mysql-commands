@@ -1,0 +1,15 @@
+USE Scientists;
+SELECT 'This is mysql exercise practice and solution';
+SELECT '1' AS '1', '2' AS '2', '3' AS '3';
+SELECT 10 * 15;
+SELECT 1 + 1;
+SELECT * FROM Scientists;
+SELECT Name AS 'Nome do Projeto', Hours AS 'Tempo de trabalho' FROM Projects;
+SELECT Name FROM Projects ORDER BY Name;
+SELECT Name FROM Projects ORDER BY Name DESC;
+SELECT concat('O projeto ', Name, ' preciosou de ', Hours, ' para ser concluido') FROM Projects;
+SELECT Name AS Nome, Hours AS Hora FROM Projects ORDER BY Hours DESC LIMIT 3;
+SELECT Name AS Nome, Hours AS Hora FROM Projects ORDER BY Hours LIMIT 5;
+SELECT DISTINCT * FROM AssignedTo;
+SELECT 'Existem', count(SSN), 'cientistas' FROM Scientists;
+SELECT * FROM Scientists;
