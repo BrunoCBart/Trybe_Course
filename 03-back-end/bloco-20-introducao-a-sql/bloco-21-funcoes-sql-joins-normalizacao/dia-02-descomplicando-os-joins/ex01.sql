@@ -69,6 +69,12 @@ RIGHT JOIN Movies m
 ON t.id = m.theater_id
 ORDER BY m.title;
 
+SELECT m.id, m.title, m.director,
+m.year, m.length_minutes, m.theater_id, b.rating 
+FROM Movies AS ms
+INNER JOIN BoxOffice AS b
+ON m.id = b.movie_id AND b.rating > 8;
+
         
 
 
