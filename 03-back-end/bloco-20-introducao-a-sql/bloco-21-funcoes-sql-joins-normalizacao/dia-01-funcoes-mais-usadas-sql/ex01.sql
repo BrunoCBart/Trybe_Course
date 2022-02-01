@@ -1,5 +1,5 @@
 SELECT MAX(SALARY) FROM hr.employees;
-SELECT MAX(SALARY)- MIN(SALARY) FROM hr.employees;
+SELECT MAX(SALARY) FROM hr.- MIN(SALARY) FROM hr.employees;
 SELECT JOB_ID, AVG(SALARY) AS `Media salarial` FROM hr.employees
 GROUP BY JOB_ID
 ORDER BY `Media salarial` DESC;
