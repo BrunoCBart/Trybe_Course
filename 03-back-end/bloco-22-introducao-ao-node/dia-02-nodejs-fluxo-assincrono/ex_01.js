@@ -7,3 +7,5 @@ const func = (a, b ,c) => {
     result < 50 ? "Valor muito baixo": resolve(result)
   })
 }
+
+module.exports = func
