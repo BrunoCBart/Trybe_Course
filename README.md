@@ -128,85 +128,89 @@ Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/
 - [X] 18.4 - Projeto - StarWars Datatable com Context API e Hooks
 
 ##### Bloco 18: Projeto App de Receitas
-- [X] 19.1 - Projeto - App de Receitas
+- [X] 18.1 - Projeto - App de Receitas
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 19: [Introdução à SQL]()
-- [ ] 20.1 - Introdução - Back-end
-- [ ] 20.1 - Introdução - Bancos de dados relacionais
-- [ ] 20.1 - Banco de dados SQL
-- [ ] 20.2 - Encontrando dados em um banco de dados
-- [ ] 20.3 - Filtrando dados de forma específica
-- [ ] 20.4 - Manipulando tabelas
-- [ ] 20.5 - Projeto - All For One
+##### Bloco 19: [Docker]()
+- [X] 19.1 - Intro - Back-end
+- [X] 19.1 - Utilizando Containers - Docker
+- [X] 19.2 - Manipulação e Criação de Imagens no Docker
+- [X] 19.3 - Orquestrando Containers com Doker Compose
+- [X] 19.4 - Projeto - Docker Todo-List
 
-##### Bloco 20: [Funções SQL, Joins e Subqueries]()
-- [ ] 21.1 - Funções mais usadas no SQL
-- [ ] 21.2 - Descomplicando JOINs e UNIONs
-- [ ] 21.3 - Stored Routines & Subqueries
-- [ ] 21.4 - Projeto - Vocabulary Booster
+##### Bloco 20: [Introdução à SQL]()
+- [X] 20.1 - Intro - Bancos de dados relacionais
+- [X] 20.1 - Bancos de dados SQL
+- [X] 20.2 - Encontrando dados em um banco de dados
+- [X] 20.3 - Filtrando dados de forma específica
+- [X] 20.4 - Manupilando tabelas
+- [x] 20.5 - Projeto - All for One
 
-##### Bloco 21: [Normalização e Modelagem de Banco de Dados]()
-- [ ] 22.1 - Transformando ideias em um modelo de banco de dados
-- [ ] 22.2 - Normalização, Formas Normais e Dumps
-- [ ] 22.3 - Transformando ideias em um modelo de banco de dados - Parte 2
-- [ ] 22.4 - Projeto - One For All
+##### Bloco 21: [Funções SQL, JOINs e Normalização]()
+- [X] 21.1 - Funções mais usadas no SQL
+- [X] 21.2 - Descomplicando JOINs
+- [X] 21.3 - Transformando ideias em um modelo de banco de dados
+- [X] 21.4 - Projeto - One For All
 
-##### Bloco 22: [Introdução ao MongoDB]()
-- [ ] 23.1 - Introdução - NoSQL
-- [ ] 23.1 - MongoDB - Introdução
-- [ ] 23.2 - Filter Operators
-- [ ] 23.3 - Projeto - Data Flights
+##### Bloco 22: [Introdução ao desenvolviemento Web com Node.js]()
+- [X] 22.1 - Intro - Node.js
+- [X] 22.1 - Node.js - Um motor JavaScript
+- [X] 22.2 - Node.js - Fluxo Assíncrono
+- [X] 22.3 - Mocha, Chai e Sinon - Testes de Back-end com Node.js
+- [ ] 22.4 - Express - HTTP com Node.js
+- [ ] 22.5 - Express - Middlewares
+- [ ] 22.6 - Projeto - Talker Manager
 
-##### Bloco 23: [MongoDB: Updates Simples e Complexos]()
-- [ ] 24.1 - Updates Simples
-- [ ] 24.2 - Updates Complexos - Arrays - Parte 1
-- [ ] 24.3 - Updates Complexos - Arrays - Parte 2
-- [ ] 24.4 - Projeto - Commerce
+##### Bloco 23: [Node.js: Camada de Serviço e Arquitetura Rest e Restful]()
+- [ ] 23.1 - Intro - Arquitetura de Software
+- [ ] 23.1 - Arquitetura de Software - Camada de Model
+- [ ] 23.2 - Arquitetura de Software - Camada de Controller e Service
+- [ ] 23.3 - Arquitetura Web - Rest e Restful
+- [ ] 23.4 - Arquitetura de Software - Testando as Camadas
+- [ ] 23.5 - Projeto - Store Manager
 
-##### Bloco 24: [MongoDB: Aggregation Framework]()
-- [ ] 25.1 - Aggregation Framework - Parte 1
-- [ ] 25.2 - Aggregation Framework - Parte 2
-- [ ] 25.3 - Projeto - Aggregations
+##### Bloco 24: [Node.js: ORM e Autenticação]()
+- [ ] 24.1 - Intro - Node.js: ORM e Autenticação
+- [ ] 24.1 - ORM - Interface de aplicação com banco de dados
+- [ ] 24.2 - ORM - Associations
+- [ ] 24.3 - JWT - (JSON Web Token)
+- [ ] 24.4 - Testando APIs com Testes de Integração
+- [ ] 24.5 - Projeto - API de Blogs
 
-##### Bloco 25: [Introdução ao desenvolvimento Web com NodeJS]()
-- [ ] 26.1 - Intro - NodeJS
-- [ ] 26.1 - NodeJS - Introdução
-- [ ] 26.2 - NodeJS - Fluxo Assíncrono
-- [ ] 26.3 - Testes com NodeJS
-- [ ] 26.4 - Express: HTTP com Node.js
-- [ ] 26.5 - Praticando Express
-- [ ] 26.6 - Projeto - Talker manager
+##### Bloco 25: [Deployment]()
+- [ ] 25.1 - Intro - Deploy
+- [ ] 25.1 - Infraestrutura - Deploy com Heroku
+- [ ] 25.2 - Deploy Docker & Heroku
+- [ ] 25.3 - Projeto - Stranger Things
 
-##### Bloco 26: [NodeJS: Camada de Serviço e Arquitetura Rest e Restful]()
-- [ ] 27.1 - Introdução - Arquitetura de Software
-- [ ] 27.1 - Arquitetura de Software - Camada de Model
-- [ ] 27.2 - Arquitetura de Software - Camada de Controller e Service
-- [ ] 27.3 - Arquitetura Web - Rest e Restful
-- [ ] 27.4 - Arquitetura de Software - Testando as Camadas
-- [ ] 27.5 - Projeto - Store Manager
+##### Bloco 26: [TypeScript]()
+- [ ] 26.1 - Intro - TypeScript
+- [ ] 26.2 - Tipagem Estática e Generics
+- [ ] 26.3 - EXpress com TypeScript
+- [ ] 26.4 - Projeto - Trybe Smith
 
-##### Bloco 27: [Autenticação e Upload de Arquivos]()
-- [ ] 28.1 - NodeJS - JWT - (JSON Web Token)
-- [ ] 28.2 - NodeJS - Upload de arquivos com Multer
-- [ ] 28.3 - NodeJS - Testando APIs com Testes de Integração
-- [ ] 28.4 - Projeto - Cookmaster
+##### Bloco 27: [Programção Orientada a Objetos (POO) e SOLID]()
+- [ ] 27.1 - Intro à Orientação a Objetos
+- [ ] 27.2 - Herança e Interfaces
+- [ ] 27.3 - Polimorfismo
+- [ ] 27.4 - SOLID - Intro e Princípios S, O e D
+- [ ] 27.5 - SOLID - Princípios L e I
+- [ ] 27.6 - Projeto - Trybers and Dragons
 
-##### Bloco 28: [Deployment]()
-- [ ] 29.1 - Introdução - Deploy
-- [ ] 29.1 - Infraestrutura - Deploy com Heroku
-- [ ] 29.2 - Deploy - Gerenciadores de Processos
-- [ ] 29.3 - Projeto - Stranger Things
+##### Bloco 28: [TFC - Trybe Futebol Clube]()
+- [ ] Projeto - TFC - Trybe Futebol Clube
 
-##### Bloco 29: Arquitetura: SOLID e ORM
-- [ ] 30.1 - Arquitetura - Princípios SOLID
-- [ ] 30.2 - ORM - Interface da aplicação com o banco de dados
-- [ ] 30.3 - ORM - Associations
-- [ ] 30.4 - Boas práticas na escrita de testes
-- [ ] 30.5 - Projeto - API de Blogs
+##### Bloco 29: [Introdução ao MongoDB]()
+- [ ] 29.1 - Intro - NoSQL
+- [ ] 29.1 - MongoDB - Introdução
+- [ ] 29.2 - Filter Operators
+- [ ] 29.3 - Operadores de consulta
+- [ ] 29.4 - Update Simples
+- [ ] 29.5 - Updates Complexos - Arrays
+- [ ] 29.6 - Projeto - Commerce
 
-##### Bloco 30: Sockets
+##### Bloco 30: [Sockets]()
 - [ ] 31.1 - Sockets - TCP/UDP & NET
 - [ ] 31.2 - Sockets - Socket.io
 - [ ] 31.3 - Projeto - Webchat
