@@ -100,17 +100,17 @@ Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/
 - [X] 12.2 - React Router
 - [X] 12.3 - Projeto - Movie Cards Library CRUD
 
-##### Bloco 13: [Metodologias Ágeis](https://github.com/BrunoCBart/trybe-course/tree/main/02-frontend/bloco-13-introducao-ao-react)
+##### Bloco 13: [Metodologias Ágeis](https://github.com/BrunoCBart/trybe-course/tree/main/02-frontend/bloco-13-metodologias-ageis/dia-01-scrum-e-kanban)
 - [X] 13.1 - Metodologias Ágeis
 - [X] 13.2 - Projeto - Frontend Online Store
 
-##### Bloco 14: [Testes automatizados com React Testing Library]()
+##### Bloco 14: [Testes automatizados com React Testing Library](https://github.com/BrunoCBart/trybe-course/tree/main/02-frontend/bloco-14-testes-automatizados-com-rtl)
 - [X] 14.1 - RTL - Primeiros passos
 - [X] 14.2 - RTL - Mocks e Inputs
 - [X] 14.3 - RTL - Testando React Router
 - [X] 14.4 - Projeto - Testes em React
 
-##### Bloco 15: [Gerenciamento de estado com Redux]()
+##### Bloco 15: [Gerenciamento de estado com Redux](https://github.com/BrunoCBart/trybe-course/tree/main/02-frontend/bloco-15-gerenciamento-de-estad-com-redux)
 - [X] 15.1 - Introdução ao Redux - O estado global da aplicação
 - [X] 15.2 - Usando o Redux no React
 - [X] 15.3 - Usando o Redux no React - Prática
@@ -132,14 +132,14 @@ Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 19: [Docker]()
+##### Bloco 19: [Docker](https://github.com/BrunoCBart/trybe-course/tree/main/03-back-end/bloco-19-docker)
 - [X] 19.1 - Intro - Back-end
 - [X] 19.1 - Utilizando Containers - Docker
 - [X] 19.2 - Manipulação e Criação de Imagens no Docker
 - [X] 19.3 - Orquestrando Containers com Doker Compose
 - [X] 19.4 - Projeto - Docker Todo-List
 
-##### Bloco 20: [Introdução à SQL]()
+##### Bloco 20: [Introdução à SQL](https://github.com/BrunoCBart/trybe-course/tree/main/03-back-end/bloco-20-introducao-a-sql)
 - [X] 20.1 - Intro - Bancos de dados relacionais
 - [X] 20.1 - Bancos de dados SQL
 - [X] 20.2 - Encontrando dados em um banco de dados
@@ -147,13 +147,13 @@ Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/
 - [X] 20.4 - Manupilando tabelas
 - [x] 20.5 - Projeto - All for One
 
-##### Bloco 21: [Funções SQL, JOINs e Normalização]()
+##### Bloco 21: [Funções SQL, JOINs e Normalização](https://github.com/BrunoCBart/trybe-course/tree/main/03-back-end/bloco-21-funcoes-sql-joins-e-normalizacao)
 - [X] 21.1 - Funções mais usadas no SQL
 - [X] 21.2 - Descomplicando JOINs
 - [X] 21.3 - Transformando ideias em um modelo de banco de dados
 - [X] 21.4 - Projeto - One For All
 
-##### Bloco 22: [Introdução ao desenvolviemento Web com Node.js]()
+##### Bloco 22: [Introdução ao desenvolviemento Web com Node.js](https://github.com/BrunoCBart/trybe-course/tree/main/03-back-end/bloco-22-introducao-ao-node)
 - [X] 22.1 - Intro - Node.js
 - [X] 22.1 - Node.js - Um motor JavaScript
 - [X] 22.2 - Node.js - Fluxo Assíncrono
