@@ -71,61 +71,61 @@ Contém todas as atividades desenvolvidas por [mim](https://www.linkedin.com/in/
 - [X] 8.5 - Projeto - Zoo functions
 
 ##### Bloco jest: [JavaScript Assíncrono e Promises](https://github.com/BrunoCBart/trybe-course/tree/main/01-fundamentos/bloco-09-javascript-assincrono-e-promises)
-- [X] 9.1 - JavaScript Assíncrono e Callbacks
-- [X] 9.2 - JavaScript Promises
-- [X] 9.3 - Projeto - Carrinho de Compras
+- [X] x9.1 - JavaScript Assíncrono e Callbacks
+- [X] x9.2 - JavaScript Promises
+- [X] x9.3 - Projeto - Carrinho de Compras
 
 ##### Bloco 09: [Testes automatizados com Jest](https://github.com/BrunoCBart/trybe-course/tree/main/01-fundamentos/bloco-10-testes-automatizados-com-jest)
-- [X] 10.1 - Primeiros passos no Jest
-- [X] 10.2 - Jest - Testes Assíncronos
-- [X] 10.3 - Jest - Simulando comportamentos
-- [X] 10.4 - Projeto - Jest Assíncrono e Mocking
+- [X] 9.1 - Primeiros passos no Jest
+- [X] 9.2 - Jest - Testes Assíncronos
+- [X] 9.3 - Jest - Simulando comportamentos
+- [X] 9.4 - Projeto - Jest Assíncrono e Mocking
 
 ## Desenvolvimento Front-end :heavy_check_mark:
 
-##### Bloco 10: [Introdução à React]()
-- [X] 11.1 - Introdução - Front-end
-- [X] 11.1 - Introdução - React
-- [X] 11.1 - 'Hello, world!' no React!
-- [X] 11.2 - Componentes React
-- [X] 11.3 - Projeto - Movie Cards Library
+##### Bloco 10: [Introdução à React](https://github.com/BrunoCBart/trybe-course/tree/main/02-frontend/bloco-10-introducao-ao-react)
+- [X] 10.1 - Introdução - Front-end
+- [X] 10.1 - Introdução - React
+- [X] 10.1 - 'Hello, world!' no React!
+- [X] 10.2 - Componentes React
+- [X] 10.3 - Projeto - Movie Cards Library
 
-##### Bloco 11: [Componentes com Estado, Eventos e Formulários com React]()
-- [X] 12.1 - Componentes com estado e eventos
-- [X] 12.2 - Formulários no React
-- [X] 12.3 - Projeto - Movie Cards Library Stateful
+##### Bloco 11: [Componentes com Estado, Eventos e Formulários com React](https://github.com/BrunoCBart/trybe-course/tree/main/02-frontend/bloco-11-componentes-com-estado-eventos-formulario-react)
+- [X] 11.1 - Componentes com estado e eventos
+- [X] 11.2 - Formulários no React
+- [X] 11.3 - Projeto - Movie Cards Library Stateful
 
-##### Bloco 12: [Ciclo de Vida de Componentes e React Router]()
-- [X] 13.1 - Ciclo de vida de componentes
-- [X] 13.2 - React Router
-- [X] 13.3 - Projeto - Movie Cards Library CRUD
+##### Bloco 12: [Ciclo de Vida de Componentes e React Router](https://github.com/BrunoCBart/trybe-course/tree/main/02-frontend/bloco-12-Ciclo-de-vida-de-componentes-react-router)
+- [X] 12.1 - Ciclo de vida de componentes
+- [X] 12.2 - React Router
+- [X] 12.3 - Projeto - Movie Cards Library CRUD
 
-##### Bloco 13: [Metodologias Ágeis]()
-- [X] 14.1 - Metodologias Ágeis
-- [X] 14.2 - Projeto - Frontend Online Store
+##### Bloco 13: [Metodologias Ágeis](https://github.com/BrunoCBart/trybe-course/tree/main/02-frontend/bloco-13-introducao-ao-react)
+- [X] 13.1 - Metodologias Ágeis
+- [X] 13.2 - Projeto - Frontend Online Store
 
 ##### Bloco 14: [Testes automatizados com React Testing Library]()
-- [X] 15.1 - RTL - Primeiros passos
-- [X] 15.2 - RTL - Mocks e Inputs
-- [X] 15.3 - RTL - Testando React Router
-- [X] 15.4 - Projeto - Testes em React
+- [X] 14.1 - RTL - Primeiros passos
+- [X] 14.2 - RTL - Mocks e Inputs
+- [X] 14.3 - RTL - Testando React Router
+- [X] 14.4 - Projeto - Testes em React
 
 ##### Bloco 15: [Gerenciamento de estado com Redux]()
-- [X] 16.1 - Introdução ao Redux - O estado global da aplicação
-- [X] 16.2 - Usando o Redux no React
-- [X] 16.3 - Usando o Redux no React - Prática
-- [X] 16.4 - Usando o Redux no React - Actions Assíncronas
-- [X] 16.5 - Testes síncronos com React-Redux
-- [X] 16.6 - Projeto - Tabela com filtros de dados
+- [X] 15.1 - Introdução ao Redux - O estado global da aplicação
+- [X] 15.2 - Usando o Redux no React
+- [X] 15.3 - Usando o Redux no React - Prática
+- [X] 15.4 - Usando o Redux no React - Actions Assíncronas
+- [X] 15.5 - Testes síncronos com React-Redux
+- [X] 15.6 - Projeto - Tabela com filtros de dados
 
 ##### Bloco 16: Projeto Jogo de Trivia
-- [X] 17.1 - Projeto - Jogo de Trivia
+- [X] 16.1 - Projeto - Jogo de Trivia
 
 ##### Bloco 17: [Context API e React Hooks]()
-- [X] 18.1 - Context API do React
-- [X] 18.2 - React Hooks - useState e useContext
-- [X] 18.3 - React Hooks - useEffect e Hooks customizados
-- [X] 18.4 - Projeto - StarWars Datatable com Context API e Hooks
+- [X] 17.1 - Context API do React
+- [X] 17.2 - React Hooks - useState e useContext
+- [X] 17.3 - React Hooks - useEffect e Hooks customizados
+- [X] 17.4 - Projeto - StarWars Datatable com Context API e Hooks
 
 ##### Bloco 18: Projeto App de Receitas
 - [X] 18.1 - Projeto - App de Receitas
