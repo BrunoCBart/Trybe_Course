@@ -15,6 +15,13 @@ app.post('/hello', (req, res) => {
 
 })
 
+app.post('/gretings', (req, res) => {
+  const { name, age } = req.body
+  if (age > 17) return req.status(200).json({message: `Hello, ${name}!`})
+  req.status(401).json({ message: 'Unauthorized'})
+})
+
+
 app.listen(5000, () => {
   console.log('listening on port 5000')
 }) 
