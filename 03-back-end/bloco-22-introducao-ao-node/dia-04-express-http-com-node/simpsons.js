@@ -56,6 +56,8 @@ app.post('/signup', (req, res) => {
   res.status(200).json(token)
 })
 
+
 app.listen(2000, () => {
   console.log('listening on port 2000')
 }) 
+
